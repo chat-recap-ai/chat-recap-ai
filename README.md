@@ -84,16 +84,3 @@ No signup required. No data stored. 100% secure.
 	•	💼 LinkedIn: Yue Zhang
 	•	💬 TikTok: @chatrecap.io
 	•	💻 GitHub: cheercheung/chatrecapai
-
----
-
-🧠 Keywords for Discoverability (SEO)
-
-chat analysis, AI chat analyzer, relationship analytics, communication insights, sentiment tracking, WhatsApp analyzer, Telegram chat analysis, relationship health, discord analytics, conversation intelligence, digital communication, AI chat platform, remote team communication, emotional intelligence, data visualization tool, communication patterns, cross-platform message analysis
-
----
-
-❤️ Contribute & Feedback
-
-ChatRecap is built with love and user feedback. Got a feature idea or bug report?
-Drop me a line at chatrecapio@gmail.com – even a simple emoji or “hi” would make my day 😊
